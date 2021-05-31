@@ -12,3 +12,6 @@ AKA, we're not serious, just having a bit of fun.
 ## Releases and Publishing Work
 We will publish the concepts by mid-winter or late-spring. These are Australian seasons,
 don't forget! You can find our current releases from v0.1 (beta) all the way to present.
+
+## Will this stay as a concept?
+Yes, until we get programmers and artists for it.
