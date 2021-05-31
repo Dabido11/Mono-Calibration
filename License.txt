@@ -1,0 +1,22 @@
+# PUBLIC LICENSE
+
+By reading this license, you must abide and hereby clarify that you will follow the terms and conditions listed to use our service.
+This project is open-source so you can remix it, scratch-style, however you like.
+
+# Conditions
+
+You do not have many limits on what you can do, so freedom is existent in this hub.
+
++ By using this service, you may modify it however you like.
++ You may suggest anything through GitHub's "issue" tab. However, we recommend using the discord server.
+
+Your limits are:
+
+- You must refrain from redistributing your modified service to the public media, however, you can DM as many people as you want as long as
+they do not share the modified service.
+- You cannot modify the public token or redistribute it.
+
+# Notes
+Thank you for reading this license, if you refrain from abiding to any of these conditions, you will be banned from the service and
+the discord server.
+
